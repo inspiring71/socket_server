@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "node index"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "polka": "latest",
+        "sirv": "latest",
+        "socket.io": "latest",
+        "socket.io-client": "^3.0.3"
+    }
+}
